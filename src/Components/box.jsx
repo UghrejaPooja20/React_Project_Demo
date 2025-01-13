@@ -5,8 +5,7 @@ import React from "react";
         <div 
             onClick ={props.onClick} 
             className="box"
-        >
-            
+        >  
             <h5>{props.value}</h5>
         </div>
     )
